@@ -6,5 +6,5 @@ git add .
 git commit -m "completed "
 git push
 
-timeout /t 1
+timeout /t 0.1
 goto loop
